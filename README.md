@@ -1,2 +1,3 @@
-# Introduction-to-Supervised-Learning-Classification-Algorithms
-This repository is an introduction to Supervised Learning with a focus on Classification Algorithms.
+# IntroductiontoSupervised LearningClassificationAlgorithms
+
+![img_diagram_supervised_learning](<img/Supervised Learning.png>)
