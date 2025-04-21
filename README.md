@@ -70,3 +70,11 @@ README.md
     <td valign="middle"><b>Support Vector Machines (SVM)</b> tries to find the best line (or flat surface in more dimensions) to separate different groups of data. It wants this line to be as far away as possible from the points in each group to make good predictions.</td>
   </tr>
 </table>
+
+
+<table>
+  <tr>
+    <td valign="middle"><b>Decision Trees</b> asks yes/no questions about your data until it decides what class it belongs to—like playing 20 questions.</td>
+    <td valign="middle"><img src="img/Decision Tree.png" width="860"></td>
+  </tr>
+</table>
