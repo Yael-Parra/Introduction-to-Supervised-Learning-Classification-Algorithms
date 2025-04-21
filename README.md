@@ -48,3 +48,9 @@ README.md
 ---
 ## 🏃 Quick Summary
 
+<table>
+  <tr>
+    <td valign="middle"><img src="Logistic Regression.png" width="100"></td>
+    <td valign="middle">Logistic Regression is a simple way to predict if something is one thing or another (like yes/no, or cat/dog) using some information. It gives you a probability (a number between 0 and 1) of which it's more likely to be.</td>
+  </tr>
+</table>
