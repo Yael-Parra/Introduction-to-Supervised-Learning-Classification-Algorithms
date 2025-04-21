@@ -2,12 +2,11 @@
 
 ![img_diagram_supervised_learning](<img/Supervised Learning.png>)
 
-## 📌 Index
-- [📝 About(#-about)
-- [🧠 Main Content](#-main-content)
-- [📁 Folder Structure](#-folder-structure)
-- [👨‍💻 Technologies Used](#-technologies-used)
-- [⚙ Installation & Usage](#-installation--usage)
+## Index
+- [About](#-about)
+- [Main Content](#-main-content)
+- [Folder Structure](#-folder-structure)
+- [Quick Summary](#-quick-summary)
 
 ---
 
@@ -21,7 +20,7 @@ It is designed to support:
 - 🧑‍🏫 Educators  
 - 🧪 Beginner Data Scientists  
 
-Content is provided in both **English** and **Spanish**, with theoretical explanation, example use cases, and simplified language for easier understanding.
+Content is provided in both **English** and **Spanish**, with theoretical explanation and simplified language for easier understanding.
 
 ---
 
@@ -45,3 +44,7 @@ img/
 
 README.md
 ``` 
+
+---
+## 🏃 Quick Summary
+
