@@ -2,3 +2,4 @@
 .python-version
 uv.lock
 main.py
+pyproject.toml
