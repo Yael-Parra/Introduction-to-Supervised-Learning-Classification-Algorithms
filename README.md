@@ -54,3 +54,10 @@ README.md
     <td valign="middle"><b>Logistic Regression</b> is a simple way to predict if something is one thing or another (like yes/no, or cat/dog) using some information. It gives you a probability (a number between 0 and 1) of which it's more likely to be.</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td valign="middle"><img src="img/KNN (K Nearest Neighbor).png" width="1500" align="right"></td>
+    <td valign="middle"><b>KNN (K-Nearest Neighbors)</b> looks at the 'K' closest examples and guesses the new one is like most of them..</td>
+  </tr>
+</table>
