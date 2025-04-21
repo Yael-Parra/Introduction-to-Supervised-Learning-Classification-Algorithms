@@ -91,6 +91,6 @@ README.md
 <table>
   <tr>
     <td valign="middle"><b>Gradient Boosting</b> builds the model step by step, where each new step tries to correct the errors of the previous step (learns from the previous model to improve progressively)</td>
-    <td valign="middle"><img src="img/Gradient Boosting.png" width="900"></td>
+    <td valign="middle"><img src="img/Gradient Boosting.png" width="1500"></td>
   </tr>
 </table>
