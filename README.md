@@ -78,3 +78,11 @@ README.md
     <td valign="middle"><img src="img/Decision Tree.png" width="900"></td>
   </tr>
 </table>
+
+
+<table>
+  <tr>
+    <td valign="middle"><img src="img/Random Forest.png" width="1600" align="left"></td>
+    <td valign="middle"><b>Random Forest</b> It grows a bunch of decision trees and lets them vote. The majority decides the final class.</td>
+  </tr>
+</table>
