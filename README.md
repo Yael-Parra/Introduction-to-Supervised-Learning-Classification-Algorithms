@@ -7,6 +7,7 @@
 - [Main Content](#-main-content)
 - [Folder Structure](#-folder-structure)
 - [Quick Summary](#-quick-summary)
+- [Practical case](#-practical-case)
 
 ---
 
@@ -109,3 +110,13 @@ README.md
     <td valign="middle"><img src="img/Naive Bayes.png" width="1500"></td>
   </tr>
 </table>
+
+---
+## ⛓️‍💥 Practical case
+
+If you want to practice a little bit, check this out! 
+Just remember to copy the code in your own collab 😉
+
+https://colab.research.google.com/drive/1XZvpMBVdDookRXPJPDK0pxVr6VwoVFxq?usp=sharing
+
+
