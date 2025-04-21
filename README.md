@@ -86,3 +86,11 @@ README.md
     <td valign="middle"><b>Random Forest</b> It grows a bunch of decision trees and lets them vote. The majority decides the final class.</td>
   </tr>
 </table>
+
+
+<table>
+  <tr>
+    <td valign="middle"><b>Gradient Boosting</b> builds the model step by step, where each new step tries to correct the errors of the previous step (learns from the previous model to improve progressively)</td>
+    <td valign="middle"><img src="img/Gradient Boosting.png" width="900"></td>
+  </tr>
+</table>
