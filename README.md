@@ -62,3 +62,11 @@ README.md
     <td valign="middle"><img src="img/KNN (K Nearest Neighbor).png" width="880"></td>
   </tr>
 </table>
+
+
+<table>
+  <tr>
+    <td valign="middle"><img src="img/Support Vector Machines (SVM).png" width="1500" align="left"></td>
+    <td valign="middle"><b>Support Vector Machines (SVM)</b> tries to find the best line (or flat surface in more dimensions) to separate different groups of data. It wants this line to be as far away as possible from the points in each group to make good predictions.</td>
+  </tr>
+</table>
