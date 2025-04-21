@@ -75,6 +75,6 @@ README.md
 <table>
   <tr>
     <td valign="middle"><b>Decision Trees</b> asks yes/no questions about your data until it decides what class it belongs to—like playing 20 questions.</td>
-    <td valign="middle"><img src="img/Decision Tree.png" width="860"></td>
+    <td valign="middle"><img src="img/Decision Tree.png" width="880"></td>
   </tr>
 </table>
