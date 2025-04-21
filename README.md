@@ -59,6 +59,6 @@ README.md
 <table>
   <tr>
     <td valign="middle"><b>KNN (K-Nearest Neighbors)</b> looks at the 'K' closest examples and guesses the new one is like most of them.</td>
-    <td valign="middle"><img src="img/KNN (K Nearest Neighbor).png" width="900"></td>
+    <td valign="middle"><img src="img/KNN (K Nearest Neighbor).png" width="880"></td>
   </tr>
 </table>
